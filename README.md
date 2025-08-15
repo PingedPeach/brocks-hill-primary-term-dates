@@ -3,7 +3,7 @@
 This calendar updates automatically if you subscribe via the link below.
 # Do NOT click the link directly — copy it instead.
 
-# Subscription link: https://raw.githubusercontent.com/PingedPeach/brocks-hill-primary-term-dates/refs/tags/Calendar/brocks-hill-term-dates.ics
+Subscription link: https://raw.githubusercontent.com/PingedPeach/brocks-hill-primary-term-dates/refs/tags/Calendar/brocks-hill-term-dates.ics
 
 How to subscribe:
 
