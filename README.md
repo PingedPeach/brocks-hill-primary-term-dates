@@ -1,6 +1,7 @@
 
 
-# My Calendar
+# Brocks Hill Primary School
+# Term Dates
 
 Download the calendar here:  
 [📅 Click to download](https://raw.githubusercontent.com/PingedPeach/brocks-hill-primary-term-dates/refs/tags/Calendar/brocks-hill-term-dates.ics)
